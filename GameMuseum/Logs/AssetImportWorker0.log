@@ -1,117 +1,196 @@
 Using pre-set license
 Built from '2020.2/staging' branch; Version is '2020.2.3f1 (8ff31bc5bf5b) revision 9433883'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 18363.1316; Version 1909; 64bit' Language: 'en' Physical Memory: 32702 MB
+OS: 'Windows 10 Pro; OS build 19042.746; Version 2009; 64bit' Language: 'en' Physical Memory: 32682 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-D:\Program Files (x86)\UnityVersions\2020.2.3f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-D:/Projects/VideoGameMuseum/GameMuseum
+C:/Users/Jay/Documents/School/Keuzedeel/Unity/VideoGameMuseum/GameMuseum
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52288
-Successfully changed project path to: D:/Projects/VideoGameMuseum/GameMuseum
-D:/Projects/VideoGameMuseum/GameMuseum
+50970
+Successfully changed project path to: C:/Users/Jay/Documents/School/Keuzedeel/Unity/VideoGameMuseum/GameMuseum
+C:/Users/Jay/Documents/School/Keuzedeel/Unity/VideoGameMuseum/GameMuseum
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 78.54 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 57.43 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
-[Subsystems] Discovering subsystems at path D:/Program Files (x86)/UnityVersions/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Projects/VideoGameMuseum/GameMuseum/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Jay/Documents/School/Keuzedeel/Unity/VideoGameMuseum/GameMuseum/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1080 Ti (ID=0x1b06)
+    Renderer: NVIDIA GeForce RTX 3090 (ID=0x2204)
     Vendor:   
-    VRAM:     11127 MB
-    Driver:   27.21.14.6089
+    VRAM:     24348 MB
+    Driver:   27.21.14.6140
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Initialize mono
-Mono path[0] = 'D:/Program Files (x86)/UnityVersions/2020.2.3f1/Editor/Data/Managed'
-Mono path[1] = 'D:/Program Files (x86)/UnityVersions/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'D:/Program Files (x86)/UnityVersions/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56332
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56980
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: D:/Program Files (x86)/UnityVersions/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.000980 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001422 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 94.62 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 53.27 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.280 seconds
+- Completed reload, in  0.868 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005450 seconds.
+Registered in 0.004781 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 70.77 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 54.60 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.654 seconds
+- Completed reload, in  1.202 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
-Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3640 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 260.1 MB.
-System memory in use after: 258.1 MB.
+Unloading 3639 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.3 MB.
+System memory in use after: 188.6 MB.
 
-Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 4105.
-Total: 25.344700 ms (FindLiveObjects: 0.590300 ms CreateObjectMapping: 0.362700 ms MarkObjects: 23.058200 ms  DeleteObjects: 1.331700 ms)
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 4131.
+Total: 14.915024 ms (FindLiveObjects: 0.340127 ms CreateObjectMapping: 0.156095 ms MarkObjects: 14.336040 ms  DeleteObjects: 0.065302 ms)
 
 ========================================================================
 Received Import Request.
+  path: Assets/Game
+  artifactKey: Guid(9afc9fd7655aafe4ea0de9a757fcd1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game using Guid(9afc9fd7655aafe4ea0de9a757fcd1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '213fd3187b24bf6a9beb29cb92285bb4') in 0.010399 seconds
+  Import took 0.014718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.635411 seconds.
+  path: Assets/Game
+  artifactKey: Guid(9afc9fd7655aafe4ea0de9a757fcd1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game using Guid(9afc9fd7655aafe4ea0de9a757fcd1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '213fd3187b24bf6a9beb29cb92285bb4') in 0.002084 seconds
+  Import took 0.006748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.656549 seconds.
+  path: Assets/Game/Prefab
+  artifactKey: Guid(fc2568fa20cbb9347ae757a18022a0f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Prefab using Guid(fc2568fa20cbb9347ae757a18022a0f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47efedb4d35130fa158bfb4c35467bd0') in 0.005533 seconds
+  Import took 0.010149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.076992 seconds.
   path: Assets/Game/Prefab/FPS_CustomController.prefab
   artifactKey: Guid(f9e9fbb8b59d8f149938ecec75aaa798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Game/Prefab/FPS_CustomController.prefab using Guid(f9e9fbb8b59d8f149938ecec75aaa798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '471ec11a0c2101fda9307322d64c970c') in 0.076183 seconds
-  Import took 0.083753 seconds .
+Start importing Assets/Game/Prefab/FPS_CustomController.prefab using Guid(f9e9fbb8b59d8f149938ecec75aaa798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdf718eec828c390df26f5cffc5915cd') in 0.045939 seconds
+  Import took 0.050806 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.099680 seconds.
-  path: Assets/Game/Scene/Museum.unity
-  artifactKey: Guid(9d4c5876cfaa56346a64e4796e9bbdbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Game/Scene/Museum.unity using Guid(9d4c5876cfaa56346a64e4796e9bbdbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '275713ad404fb569af962e753513288c') in 0.008839 seconds
-  Import took 0.016214 seconds .
+  Time since last request: 0.000128 seconds.
+  path: Assets/Game/Prefab/XR Rig Advanced.prefab
+  artifactKey: Guid(4e2d47a02ffe4c5479ba3b0b440327ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Prefab/XR Rig Advanced.prefab using Guid(4e2d47a02ffe4c5479ba3b0b440327ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '279ca1ea3fccb8b4471c8517c0d1b33f') in 0.905112 seconds
+  Import took 0.916796 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.007968 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.03 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.357 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 1.10 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3351 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 264.0 MB.
-System memory in use after: 262.0 MB.
+Received Import Request.
+  Time since last request: 16.247260 seconds.
+  path: Assets/Game/Models
+  artifactKey: Guid(0e1c3ac76b9275f4fb4f4d4b43974432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Models using Guid(0e1c3ac76b9275f4fb4f4d4b43974432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '247c95a1eaf7bfcea381bcc2c9d17799') in 0.005746 seconds
+  Import took 0.010746 seconds .
 
-Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 4108.
-Total: 25.978100 ms (FindLiveObjects: 0.321900 ms CreateObjectMapping: 0.198500 ms MarkObjects: 24.004500 ms  DeleteObjects: 1.451400 ms)
+========================================================================
+Received Import Request.
+  Time since last request: 9.128450 seconds.
+  path: Assets/Game/Textures
+  artifactKey: Guid(601160a78398f7340a2a4741ad549811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Textures using Guid(601160a78398f7340a2a4741ad549811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1dec94de6bddf584e2c856682733def') in 0.005539 seconds
+  Import took 0.010376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.819000 seconds.
+  path: Assets/Game/Materials
+  artifactKey: Guid(e9fe1b1b7a373bb4c8326524172cba2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Materials using Guid(e9fe1b1b7a373bb4c8326524172cba2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d9590dcc81db89c896fddcf09e0f5bb') in 0.006031 seconds
+  Import took 0.011475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.102612 seconds.
+  path: Assets/Game/Models/Props
+  artifactKey: Guid(b8b44046c4b0f6e48ad490ef676e9dfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Models/Props using Guid(b8b44046c4b0f6e48ad490ef676e9dfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '480f154743d2706b284c462a41bb4805') in 0.005807 seconds
+  Import took 0.010869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.914848 seconds.
+  path: Assets/Game/Materials/Props
+  artifactKey: Guid(f2bac5a2c717ca94daef3bb5407355c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Materials/Props using Guid(f2bac5a2c717ca94daef3bb5407355c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22d3f04ea344e7e316dd536a740f8fcc') in 0.002344 seconds
+  Import took 0.007688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Game/Materials/Props
+  artifactKey: Guid(f2bac5a2c717ca94daef3bb5407355c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Materials/Props using Guid(f2bac5a2c717ca94daef3bb5407355c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22d3f04ea344e7e316dd536a740f8fcc') in 0.001811 seconds
+  Import took 0.006172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.687353 seconds.
+  path: Assets/Game/Textures/Props
+  artifactKey: Guid(b5e278bdfda5b08469a80ab8e0ed2f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Textures/Props using Guid(b5e278bdfda5b08469a80ab8e0ed2f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a264820e365e517f945c54c848c6fb2b') in 0.002077 seconds
+  Import took 0.006917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.709707 seconds.
+  path: Assets/Game/Textures/Props/T_Atari2600
+  artifactKey: Guid(8379cf37f7b2cc7429cb79070f47daa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Textures/Props/T_Atari2600 using Guid(8379cf37f7b2cc7429cb79070f47daa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '494490d45e6968059fff8397d72f61be') in 0.005675 seconds
+  Import took 0.010506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.817594 seconds.
+  path: Assets/Game/Materials/Props/M_Atari2600.mat
+  artifactKey: Guid(81dedb8fa902af342829d26602aacf64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Materials/Props/M_Atari2600.mat using Guid(81dedb8fa902af342829d26602aacf64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a67915ffd0d1c09bc57343deb4ff581c') in 0.033899 seconds
+  Import took 0.039154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.605616 seconds.
+  path: Assets/Game/Models/Props/TempMay.mat
+  artifactKey: Guid(08ad6021a2beb1d4aaf622bae7f760b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Models/Props/TempMay.mat using Guid(08ad6021a2beb1d4aaf622bae7f760b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c1ef98bc45a3c7a774932bcd8b15153') in 0.010103 seconds
+  Import took 0.015671 seconds .
 
